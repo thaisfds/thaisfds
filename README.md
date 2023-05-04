@@ -7,9 +7,9 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thaisfds&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisfds&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="http://github-readme-streak-stats.herokuapp.com?user=thaisfds&theme=jolly" alt="Thais-Fire" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisfds&layout=compact&theme=vision-friendly-dark" alt="Thais-" />
 </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thaisfds&theme=jolly)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisfds&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 <div style="display: inline-block"><br>
    <a href = "mailto:thaisfdasilva159@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
