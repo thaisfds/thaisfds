@@ -10,13 +10,15 @@ mais textinho
 
 <div align="center">  
   <img width="49%" height="195px" src="http://github-readme-streak-stats.herokuapp.com?user=thaisfds&theme=transparent&hide_border=false" alt="Thais-Fire" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisfds&layout=compact&theme=transparent&hide_border=false" alt="Thais-Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thaisfds&show_icons=true&theme=transparent" alt="Thais-Stats" />
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisfds&layout=compact&theme=transparent&hide_border=false" alt="Thais-Languages" />
 </div>
   
 <div style="display: inline-block" align="center"><br>
    <a href = "mailto:thaisfdasilva159@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tha%C3%ADs-ferreira-da-silva-92b03317b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" target="_blank"></a>  
 </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <p align="center">
 Skills and Tools:
