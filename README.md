@@ -22,7 +22,8 @@
   <img align="center" alt="Thais-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </div>
   
-### Studying in this moment:
- 
+<div align="center">  
+Studying in this moment:
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
