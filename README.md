@@ -5,8 +5,8 @@
 - 😄 Meus pronomes: ela/dela
 
 <div align="center">  
-  <img width="49%" height="195px" src="http://github-readme-streak-stats.herokuapp.com?user=thaisfds&theme=transparent&hide_border=true" alt="Thais-Fire" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisfds&layout=compact&theme=transparent&hide_border=true" alt="Thais-Languages" />
+  <img width="49%" height="195px" src="http://github-readme-streak-stats.herokuapp.com?user=thaisfds&theme=transparent&hide_border=false" alt="Thais-Fire" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisfds&layout=compact&theme=transparent&hide_border=false" alt="Thais-Languages" />
 </div>
   
 <div style="display: inline-block"><br>
