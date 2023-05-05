@@ -1,8 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-## Oi! Eu sou a Thaís 👋
-- 📫 Estudo Ciência da Computação na Universidade Federal de Minas Gerais
-- 😄 Meus pronomes: ela/dela
+<h2 align="center">
+Hi 👋 My name`s Thaís! I'm a computer science student passionate about technology and science. 
+</h2>
+
+<p align="center">
+mais textinho
+</p>
 
 <div align="center">  
   <img width="49%" height="195px" src="http://github-readme-streak-stats.herokuapp.com?user=thaisfds&theme=transparent&hide_border=false" alt="Thais-Fire" />
@@ -14,7 +18,9 @@
   <a href="https://www.linkedin.com/in/tha%C3%ADs-ferreira-da-silva-92b03317b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" target="_blank"></a>  
 </div>
 
-### Skills and Tools:
+<p align="center">
+Skills and Tools:
+</p>
 <div style="display: inline-block" align="center"><br>
   <img align="center" alt="Thais-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Thais-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -22,8 +28,8 @@
   <img align="center" alt="Thais-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </div>
   
-<div align="center">  
+<p align="center">
 Studying in this moment:
-</div>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
