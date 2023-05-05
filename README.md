@@ -10,7 +10,7 @@ mais textinho
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thaisfds&show_icons=true&theme=transparent" alt="Thais-Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisfds&theme=transparent" alt="Thais-Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent" alt="Thais-Languages" />
 </div>
   
 <div style="display: inline-block" align="center"><br>
