@@ -15,7 +15,7 @@ mais textinho
   
 <div style="display: inline-block" align="center"><br>
    <a href = "mailto:thaisfdasilva159@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tha%C3%ADs-ferreira-da-silva-92b03317b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/thaisfds" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" target="_blank"></a>  
 </div>
 
 <h3 align="center">
