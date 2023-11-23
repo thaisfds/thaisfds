@@ -26,6 +26,7 @@ Skills and Tools:
   <img align="center" alt="Thais-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Thais-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Thais-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Thais-HTML" height="30" width="40" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" />
 </div>
   
 <h3 align="center">
