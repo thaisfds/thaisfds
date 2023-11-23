@@ -22,15 +22,18 @@ mais textinho
 Skills and Tools:
 </h3>
 <div style="display: inline-block" align="center"><br>
-  <img align="center" alt="Thais-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Thais-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Thais-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Thais-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Thais-HTML" height="30" width="40" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" />
+  <img align="center" alt="Thais-C" height="30" width="40" src="https://github.com/thaisfds/thaisfds/blob/main/icones/c.svg">
+  <img align="center" alt="Thais-Python" height="30" width="40" src="https://github.com/thaisfds/thaisfds/blob/main/icones/cpp.svg">
+  <img align="center" alt="Thais-CSS" height="30" width="40" src="https://github.com/thaisfds/thaisfds/blob/main/icones/python.svg">
+  <img align="center" alt="Thais-HTML" height="30" width="40" src="https://github.com/thaisfds/thaisfds/blob/main/icones/html3.svg" />
+  <img align="center" alt="Thais-HTML" height="30" width="40" src="https://github.com/thaisfds/thaisfds/blob/main/icones/html5.svg" />
 </div>
   
 <h3 align="center">
 Studying in this moment:
 </h3>
+<div style="display: inline-block" align="center"><br>
+  <img align="center" alt="Thais-C" height="30" width="40" src="https://github.com/thaisfds/thaisfds/blob/main/icones/julia.svg">
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
