@@ -34,6 +34,7 @@ Studying in this moment:
 </h3>
 <div style="display: inline-block" align="center"><br>
   <img align="center" alt="Thais-C" height="30" width="40" src="https://github.com/thaisfds/thaisfds/blob/main/icones/julia.svg">
+  <img align="center" alt="Thais-C" height="30" width="40" src="https://github.com/thaisfds/thaisfds/blob/main/icones/julia2.svg">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
